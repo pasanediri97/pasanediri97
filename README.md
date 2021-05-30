@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasanediri97
 - 👀 I’m an iOS developer and also kind of a fullstack developer
-- 🌱 I’m currently learning iOS development
+- 🌱 I’m currently learning and working with iOS development
 - 📫 How to reach me : linkedin.com/in/pasan-ediri
 
 <!---
